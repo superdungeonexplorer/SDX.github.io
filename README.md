@@ -1,10 +1,9 @@
 # SDE-Compendium
 This site is a living library of Super Dungeon Explore character cards, hero guides, and reference material, including every retail release by Soda Pop Miniatures. Download or clone this GIT repository to run the application or access the assets used within the site.
 
-![Alt text](/img/bg/sde-compendium-pinterest.png?raw=true "SDE Compendium homepage")
 
 ## Live site
-Visit the [SDE Compendium](http://sde.invarti,com)
+Visit the [SDE Compendium](http://www.sdecompendium.site)
 
 ## Requirements
 The site requires the use of a web server to function. Opening the index.php will not load the site correctly. There are many useful guides available via a Google search on how to create your own local or online web server.
